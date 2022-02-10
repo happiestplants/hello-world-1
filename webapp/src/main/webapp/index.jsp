@@ -1,4 +1,4 @@
-form actioadasd="action_page.php">
+<form action="action_page.php">
   <div class="container">
     <h3>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
@@ -32,7 +32,6 @@ form actioadasd="action_page.php">
   </div>
 
    <h1> Hooray for me </h1>
-
   
 </form>
 
